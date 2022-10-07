@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import *
 
-# it must be here to initial and save screen
+# it must be here to initial and save screen .
 pygame.init()
 
 # size the screen
